@@ -24,8 +24,15 @@ func arrays() {
 	fmt.Println("array:", array) // print the array
 	fmt.Println(array[1:3])      // print the slice from the array
 
-	slice := array[1:3]                                    // create a slice from the array
-	fmt.Printf("slice: value %v, type %T\n", slice, slice) // print the value and type of the slice
+	slice := array[1:3]                                                             // create a slice from the array
+	fmt.Printf("slice: value %v, type %T, capacity %v\n", slice, slice, cap(slice)) // print the value and type of the slice
+	// append to slice
+	slice = append(slice, 4)
+	fmt.Printf("slice size: %v and slice capacity: %v\n", len(slice), cap(slice))
 
 	fmt.Println(&slice[0]) // print the address of the first element of the slice
+
+	floatArray := [3]float64{1.1, 2.2, 3.3}
+	fmt.Println("floatArray:", floatArray)
+
 }
