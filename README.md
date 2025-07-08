@@ -9,6 +9,7 @@ This repository includes practical examples of:
 - **Basic Types**: Understanding Go's type system including integers, strings, booleans, floats, and complex numbers
 - **Functions**: Function declarations, multiple return values, error handling, and visibility rules
 - **Arrays, Slices, and Maps**: Data structures and their usage in Go
+- **Strings, Runes, and Bytes**: String handling, Unicode characters, and byte manipulation in Go
 - **Loops**: Different ways to iterate through data structures
 
 ## Contributing
