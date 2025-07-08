@@ -5,6 +5,7 @@ import (
 	functions "github.com/matheuscaet/go-study/02functions"
 	arraysslicesmapsloops "github.com/matheuscaet/go-study/03arrays_slices_maps_loops"
 	stringsrunesbytes "github.com/matheuscaet/go-study/04string_runes_bytes"
+	structsinterfaces "github.com/matheuscaet/go-study/05structs_interfaces"
 )
 
 func main() {
@@ -12,4 +13,5 @@ func main() {
 	functions.Functions()
 	arraysslicesmapsloops.ArraysSlicesMapsLoops()
 	stringsrunesbytes.StringsRunesBytes()
+	structsinterfaces.StructsInterfaces()
 }

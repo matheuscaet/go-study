@@ -10,6 +10,7 @@ This repository includes practical examples of:
 - **Functions**: Function declarations, multiple return values, error handling, and visibility rules
 - **Arrays, Slices, and Maps**: Data structures and their usage in Go
 - **Strings, Runes, and Bytes**: String handling, Unicode characters, and byte manipulation in Go
+- **Structs and Interfaces**: Custom data types, methods, and interface implementations in Go
 - **Loops**: Different ways to iterate through data structures
 
 ## Contributing
