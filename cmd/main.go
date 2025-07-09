@@ -8,6 +8,7 @@ import (
 	structsinterfaces "github.com/matheuscaet/go-study/05structs_interfaces"
 	pointers "github.com/matheuscaet/go-study/06pointers"
 	goroutines "github.com/matheuscaet/go-study/07goroutines"
+	channels "github.com/matheuscaet/go-study/08channels"
 )
 
 func main() {
@@ -18,4 +19,5 @@ func main() {
 	structsinterfaces.StructsInterfaces()
 	pointers.Pointers()
 	goroutines.Goroutines()
+	channels.Channels()
 }

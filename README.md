@@ -14,6 +14,7 @@ This repository includes practical examples of:
 - **Pointers**: Memory addresses, pointer declarations, and dereferencing in Go
 - **Loops**: Different ways to iterate through data structures
 - **Goroutines**: Concurrent programming with goroutines and channels in Go
+- **Channels**: Channel operations, select statements, and communication between goroutines
 
 ## Contributing
 
