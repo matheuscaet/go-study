@@ -7,6 +7,7 @@ import (
 	stringsrunesbytes "github.com/matheuscaet/go-study/04string_runes_bytes"
 	structsinterfaces "github.com/matheuscaet/go-study/05structs_interfaces"
 	pointers "github.com/matheuscaet/go-study/06pointers"
+	goroutines "github.com/matheuscaet/go-study/07goroutines"
 )
 
 func main() {
@@ -16,4 +17,5 @@ func main() {
 	stringsrunesbytes.StringsRunesBytes()
 	structsinterfaces.StructsInterfaces()
 	pointers.Pointers()
+	goroutines.Goroutines()
 }

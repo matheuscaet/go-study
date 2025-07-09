@@ -13,6 +13,7 @@ This repository includes practical examples of:
 - **Structs and Interfaces**: Custom data types, methods, and interface implementations in Go
 - **Pointers**: Memory addresses, pointer declarations, and dereferencing in Go
 - **Loops**: Different ways to iterate through data structures
+- **Goroutines**: Concurrent programming with goroutines and channels in Go
 
 ## Contributing
 
@@ -32,7 +33,20 @@ Anyone can contribute to this repository! Here's how:
 
 ## Getting Started
 
-To run the examples in this repository:
+Available commands:
+```bash
+make run
+make build
+make clean
+make new-module number=<number> name=<name>
 ```
-go run cmd/main.go
+
+## Direct Go Commands
+
+You can also use Go commands directly:
+
+```bash
+go run cmd/main.go        # Run the application
+go build -o bin/go-study  # Build the application
+
 ```
