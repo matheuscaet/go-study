@@ -9,6 +9,7 @@ import (
 	pointers "github.com/matheuscaet/go-study/06pointers"
 	goroutines "github.com/matheuscaet/go-study/07goroutines"
 	channels "github.com/matheuscaet/go-study/08channels"
+	generics "github.com/matheuscaet/go-study/09generics"
 )
 
 func main() {
@@ -20,4 +21,7 @@ func main() {
 	pointers.Pointers()
 	goroutines.Goroutines()
 	channels.Channels()
+	generics.Generics()
+	generics.Generics2()
+	generics.Generics3()
 }

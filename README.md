@@ -15,6 +15,7 @@ This repository includes practical examples of:
 - **Loops**: Different ways to iterate through data structures
 - **Goroutines**: Concurrent programming with goroutines and channels in Go
 - **Channels**: Channel operations, select statements, and communication between goroutines
+- **Generics**: Generic programming with type parameters, constraints, and type inference in Go
 
 ## Contributing
 

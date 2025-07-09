@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Buy groceries",
+        "completed": false
+    },
+    {
+        "name": "Buy a new phone",
+        "completed": false
+    },
+    {
+        "name": "Buy a new car",
+        "completed": false
+    }
+]
