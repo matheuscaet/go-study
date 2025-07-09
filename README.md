@@ -11,6 +11,7 @@ This repository includes practical examples of:
 - **Arrays, Slices, and Maps**: Data structures and their usage in Go
 - **Strings, Runes, and Bytes**: String handling, Unicode characters, and byte manipulation in Go
 - **Structs and Interfaces**: Custom data types, methods, and interface implementations in Go
+- **Pointers**: Memory addresses, pointer declarations, and dereferencing in Go
 - **Loops**: Different ways to iterate through data structures
 
 ## Contributing
